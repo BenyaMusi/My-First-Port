@@ -46,10 +46,8 @@
           <div><span>Date of Birth : </span> 10 February 2000</div>
         </div> -->
           <p>
-            &emsp;&emsp;I'm studying senior Computer Science at KMITL maintained a 3.30
-            GPA <br />
-            with experience Front-end Developer of Co-operative Education at a Start-up
-            tech for 7 months.<br />
+            &emsp;&emsp;I graduated from KMITL, faculty of Science and department of Computer Science. I've a 3.30 GPA.<br />
+            With experience Front-end Developer of Co-operative Education at Finn Solution.Co.,Ltd. for 7 months.<br />
             I used Vue.js and Quasar framework for the project that I've done.<br />
             <br />
             I've studied Java in class and game developed by Monogame with c# language.
