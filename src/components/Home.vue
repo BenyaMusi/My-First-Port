@@ -46,7 +46,7 @@
           <div><span>Date of Birth : </span> 10 February 2000</div>
         </div> -->
           <p>
-            &emsp;&emsp;I graduated from KMITL, faculty of Science and department of Computer Science. I've a 3.30 GPA.<br />
+            &emsp;&emsp;I graduated from KMITL, department of Computer Science. I've a 3.30 GPA.<br />
             With experience Front-end Developer of Co-operative Education at Finn Solution.Co.,Ltd. for 7 months.<br />
             I used Vue.js and Quasar framework for the project that I've done.<br />
             <br />
