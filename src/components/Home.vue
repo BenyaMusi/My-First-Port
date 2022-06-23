@@ -47,8 +47,7 @@
         </div> -->
           <p>
             &emsp;&emsp;I graduated from KMITL, department of Computer Science. I've a 3.30 GPA.<br />
-            With experience Front-end Developer of Co-operative Education at Finn Solution.Co.,Ltd. for 7 months.<br />
-            I used Vue.js and Quasar framework for the project that I've done.<br />
+            With experience Front-end Developer of Co-operative Education at Finn Solution.Co.,Ltd. for 7 months. I used Vue.js and Quasar framework for the project that I've done.<br />
             <br />
             I've studied Java in class and game developed by Monogame with c# language.
             <br />I've also had UX/UI and Design Pattern lesson. I'm willing to learn new
