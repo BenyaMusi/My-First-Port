@@ -86,7 +86,7 @@
         <p>COMPUTER GAME PROGRAMMING : Midterm Exam</p>
         <div class="work">
           <p>Bubble shooting game</p>
-          <img class="work_pic" src="../img/work1.png" />
+          <img class="work_pic2" src="../img/work1.png" />
         </div>
       </div>
       <div>
@@ -344,6 +344,9 @@ span {
   margin: 50px 0px;
 }
 .work_pic {
+  width: 35%;
+}
+.work_pic2 {
   width: 25%;
 }
 .work_pic_small {
