@@ -46,7 +46,7 @@
           <div><span>Date of Birth : </span> 10 February 2000</div>
         </div> -->
           <p>
-            &emsp;&emsp;I'm studying senior Computer Science at KMITL maintained a 3.25
+            &emsp;&emsp;I'm studying senior Computer Science at KMITL maintained a 3.30
             GPA <br />
             with experience Front-end Developer of Co-operative Education at a Start-up
             tech for 7 months.<br />
