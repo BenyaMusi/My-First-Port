@@ -344,7 +344,7 @@ span {
   margin: 50px 0px;
 }
 .work_pic {
-  width: 40%;
+  width: 25%;
 }
 .work_pic_small {
   width: 50%;
